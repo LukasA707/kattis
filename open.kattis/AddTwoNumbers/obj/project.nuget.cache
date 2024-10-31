@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oBjlcSU6lPcZnwUzhM9ElecPjEvRHcPZVwnsjQjcMy+dCvt6UJAMXnUosIQ0BDupasN4uWam6YcVrh4vDbJMOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lukas\\Documents\\kattis\\open.kattis\\AddTwoNumbers\\AddTwoNumbers.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lukas\\.nuget\\packages\\fsharp.core\\8.0.100\\fsharp.core.8.0.100.nupkg.sha512"
+  ],
+  "logs": []
+}

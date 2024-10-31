@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FHePBTmBVNISPTuwkakqoXbXhzkBxK+TPu91ZvwExVXTuWrnmjl3dcw67vSaGPWYQjg18dmZSfj5aXx2CeUFgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lukas\\Documents\\kattis\\open.kattis\\SortTwoNumbers\\SortTwoNumbers.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lukas\\.nuget\\packages\\fsharp.core\\8.0.100\\fsharp.core.8.0.100.nupkg.sha512"
+  ],
+  "logs": []
+}

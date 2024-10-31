@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4/aAy4BVEAGqXE4ANOzxRnfW2cge4IdxTIyxo2lJU+ZmVj/5g8BVDJwfS7ZuejbS3N1+t+vusXMys1BnzqrvQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lukas\\Documents\\kattis\\open.kattis\\EchoEchoEcho\\EchoEchoEcho.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lukas\\.nuget\\packages\\fsharp.core\\8.0.100\\fsharp.core.8.0.100.nupkg.sha512"
+  ],
+  "logs": []
+}
